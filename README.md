@@ -1,15 +1,27 @@
+# Olá, eu sou Julia 👋
+
+## 🚀 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, desenvolvimento e empreendedorismo.
+
+---
+
+## 📊 Meu desempenho no GitHub
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Foto de perfil" width="150" style="border-radius: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&count_private=true" alt="Julia's GitHub Stats" />
 </p>
 
-<h1 align="center">Olá, eu sou a Julia! 👋</h1>
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Fundadora da <b>Sede Zero</b> | Apaixonada por tecnologia e empreendedorismo
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" alt="Julia's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## Tecnologias & Ferramentas
+## 🛠 Tecnologias
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,30 +33,24 @@
 
 ---
 
-## Projetos em destaque
+## 💼 Projetos
 
-| Projeto    | Descrição                                         | Link                                              |
-|------------|-------------------------------------------------|---------------------------------------------------|
-| Controla+  | App de controle financeiro para compradores compulsivos | [Link do projeto](#) |
-
----
-
-## Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" alt="Streak do GitHub" />
-</p>
+- [Controla+](#) — Aplicativo de controle financeiro para compradores compulsivos.
+- [Sede Zero](#) — Distribuidora online de drinks com combos personalizados.
 
 ---
 
-## Contato
+## 📫 Contato
+
+- LinkedIn: 
+- Email: 
+- GitHub: 
+---
 
 <p align="center">
-  <!-- Substitua os # pelos seus links -->
+  Obrigada por visitar meu perfil! Vamos construir algo incrível juntos! 🚀
+</p>
+
   <a href="#" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
