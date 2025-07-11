@@ -35,7 +35,7 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logo&labelColor=0D1117)&nbsp; 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</br></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/juliagabrielle18/count.svg" /></p> 
 <br>
 </div>
