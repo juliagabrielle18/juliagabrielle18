@@ -23,7 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)
 
 </div>
@@ -35,7 +34,7 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logo&labelColor=0D1117)&nbsp; 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</br></p>  
+<br><p align="centre"><b>Visitors Count</p></br>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/juliagabrielle18/count.svg" /></p> 
 <br>
 </div>
