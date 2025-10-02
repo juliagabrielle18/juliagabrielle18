@@ -33,12 +33,6 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logo&labelColor=0D1117)&nbsp; 
 
-<div align="center" style="margin: 40px 0;">
-  <p style="font-size: 17px; font-weight: 500; color: #444;">
-    Número de visitas ao perfil
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=juliagabrielle18&style=flat-square&color=FF69B4" alt="Visit Counter" />
-</div>
 
 
 <div align="center" style="margin: 40px 0;">
