@@ -34,13 +34,15 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logo&labelColor=0D1117)&nbsp; 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</p></br>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/juliagabrielle18/count.svg" /></p> 
-<br>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=juliagabrielle18&color=FF69B4" alt="Profile views"/>
+  </p>
+  <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 
 
