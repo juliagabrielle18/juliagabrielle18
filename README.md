@@ -33,11 +33,11 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logo&labelColor=0D1117)&nbsp; 
 
-<div align="center" style="margin-top: 40px;">
-  <h2 style="font-weight: 600; color: #333;">Profile Visitors</h2>
-  <img src="https://komarev.com/ghpvc/?username=juliagabrielle18&style=flat-square&color=0abde3" alt="Visitor count badge" />
+<div align="center" style="margin: 40px 0;">
+  <h2 style="font-weight: 600; color: #FF69B4; margin-bottom: 10px;">Visualizações do Perfil</h2>
+  <img src="https://komarev.com/ghpvc/?username=juliagabrielle18&style=flat-square&color=FF69B4" alt="Contador de visitas"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 
