@@ -41,3 +41,11 @@
 </div>
 
 
+<div align="center" style="margin: 20px 0;">
+  <p style="font-size: 15px; font-weight: 400; color: #666;">
+    Aqui vai o conteúdo da nova div
+  </p>
+  <img src="https://camo.githubusercontent.com/97935bc9e343ec05c784357147e2088f60394171c3a00bf26f68f9e391696c69/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d363531343835266865696768743d3130302673656374696f6e3d666f6f746572" alt="Imagem Adicional" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</div>
+
+
