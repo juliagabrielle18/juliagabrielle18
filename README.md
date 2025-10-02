@@ -33,16 +33,11 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logo&labelColor=0D1117)&nbsp; 
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=juliagabrielle18&color=FF69B4" alt="Profile views"/>
-  </p>
-  <br>
+<div align="center" style="margin-top: 40px;">
+  <h2 style="font-weight: 600; color: #333;">Profile Visitors</h2>
+  <img src="https://komarev.com/ghpvc/?username=juliagabrielle18&style=flat-square&color=0abde3" alt="Visitor count badge" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer"/>
 
 
